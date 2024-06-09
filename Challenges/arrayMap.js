@@ -1,4 +1,4 @@
-function arrayMap(nums, target) {
+function subarraySum(nums, target) {
     let currentSum = 0;
     let left = 0;
 
@@ -18,4 +18,4 @@ function arrayMap(nums, target) {
     return false;
 }
 
-console.log(arrayMap([4, 2, 7, 1, 9, 5],  9));
+console.log(subarraySum([4, 2, 7, 1, 9, 5],  9));
