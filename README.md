@@ -3,21 +3,20 @@
 - Pull this repo from [this repo](https://github.com/khevin2/coa-work)
 - Use a server to run this repo: example [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - The main challenge is in the `gallery` folder
-- The other  challenges are situated the the `Challenges` folder
+- The other  challenges are situated in the `Challenges` folder
 
 # **Screenshots**
 
 #### ***Gallery***
 
-![enter image description here](https://raw.githubusercontent.com/khevin2/coa-work/17cfe404d3a3f52525865c09c08fddfa8c31d868/screenshots/gallery.jpeg?token=GHSAT0AAAAAACQWCNEVU327TNUQUPPZMLBCZTF7KNA)
-
+![Screenshot_9-6-2024_202147_kheven me](https://github.com/khevin2/coa-work/assets/40208392/76376cc8-a401-427a-8bf0-706732761ae5)
 
 #### String Transformation
 
-
-![enter image description here](https://raw.githubusercontent.com/khevin2/coa-work/17cfe404d3a3f52525865c09c08fddfa8c31d868/screenshots/stringTransform.png?token=GHSAT0AAAAAACQWCNEUQL64KX2GHMGGSZFAZTF7LBA)
+![stringTransform](https://github.com/khevin2/coa-work/assets/40208392/d3a3e5c1-64c0-4622-80e6-a187fa74a89c)
 
 #### Array Map
-![enter image description here](https://raw.githubusercontent.com/khevin2/coa-work/17cfe404d3a3f52525865c09c08fddfa8c31d868/screenshots/arrayMap.png?token=GHSAT0AAAAAACQWCNEUFQPXVI4OWTPAU5KWZTF7LQA)
+![arrayMap](https://github.com/khevin2/coa-work/assets/40208392/c7cf171f-b734-45cc-886a-a80f40601aac)
+
 
 Made By [Cyusa Kheven](https://linkedin.com/in/cyusa-kheven)
